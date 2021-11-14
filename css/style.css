@@ -1,0 +1,26 @@
+body {
+  background-image: url(/BookingS/img/back.jpg);
+
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.btn-login {
+  height: 50px;
+  background: orange;
+  border: none;
+  color: white;
+  font-size: 1.25em;
+  font-family: "Nanum Gothic";
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.container-form{
+
+  margin-top: 10%;
+}
+
+ul.navbar-nav {
+  margin-left: auto;
+}
