@@ -1,8 +1,8 @@
-.form-main {
-  margin: 0 auto;
-  padding-top: 10%;
-}
 
+#form-heading{
+  font-size: large;
+  text-align: center;
+}
 button {
   height: 50px;
   background: orange;
@@ -17,3 +17,5 @@ button {
 button:hover {
   border: 2px solid black;
 }
+
+

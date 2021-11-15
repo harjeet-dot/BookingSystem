@@ -13,15 +13,19 @@
 <style>
     .form-main {
         margin: 0 auto;
-        padding-top: 10%;
+        padding-top: 2%;
         margin-top: 6%;
-
-        box-shadow: 0px 2px 6px -1px rgba(0, 0, 0, .12);
-
+        width: 40%;
+        padding-bottom: 2%;
+        box-shadow: 0px 2px 6px -1px rgba(0, 0, 0, 0.12);
+    }
+    h1{
+        text-align: center;
+        color: orange;
     }
 </style>
 
-<body style="background-image: url(../img/book-img.jpg);">
+<body style="background-image: url(./img/book-img.jpg);">
 
     <nav class="navbar fixed-top navbar-expand-sm bg-light navbar-light">
 
@@ -45,6 +49,7 @@
 
 
     <form class="row g-3 form-main">
+        <h1>Check Availability</h1>
         <div class="col-md-6">
             <label for="inputEmail4" class="form-label">Date</label>
             <input type="date" class="form-control" id="inputEmail4">

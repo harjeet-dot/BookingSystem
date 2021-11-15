@@ -27,9 +27,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="./admin/admin.php">Admin</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="./admin/admin.php">Search Room</a>
-            </li>
+           
 
         </ul>
     </nav>
